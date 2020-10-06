@@ -1,4 +1,4 @@
-Hi, This is Pradip, a post-graduate from NIT Warangal and currently working in the R&D team as Software Engineer at iVIS, an E-surveillance farm.
+Hi, This is Pradip, a post-graduate from NIT Warangal and currently working in the R&D team as a Software Engineer at iVIS, an E-surveillance farm.
 
 
 Things I love to do :
