@@ -6,7 +6,7 @@ Things I love to do :
 | Unlearning and learning ♻️ 
 | Stupid projects and experiments 
 | Building stuffs to solve some real life problems 
-| Contributing my bit to make a better workplace to boost productivity and better experience for end users via inclusion of latest technologies for collaborative development and smooth workflow via research or via my implementations 
+| Contributing my bit to make a better workplace to boost productivity and for better experience for end users via analysis for improvement and inclusion of latest technologies for collaborative development and smooth workflow via research or via my implementations 
 | Hackathons 
 | Gaming |
 
