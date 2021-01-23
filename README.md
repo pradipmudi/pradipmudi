@@ -33,3 +33,5 @@ Hi, I'm Pradip from India. I love learning new things.
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=pradipmudi)   
 
 ![Profile views](https://gpvc.arturio.dev/pradipmudi)  
+
+<meta name="google-site-verification" content="NVeBBb2-gWO2_Wjt0PFChFeUWv_bgfuHHeQpk53df7k" />
