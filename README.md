@@ -1,9 +1,11 @@
 # Pradip Mudi
-![Design & Development](https://www.facebook.com/photo/?fbid=1808834745867892&set=a.222480437836672)
 
-I'm Pradip from India
+I'm Pradip from India. A passionate
 
-
+## Skills and Experience 
+ ☕️ Java
+ 💻 HTML, CSS, JS
+ 
 - 🌱 I’m currently learning about large scale systems, AI & Quantum Computing 
 - 📫 How to reach me: pradipmudi24@gmail.com 
 - ⚡ Fun fact: I also love gaming, ping me up if you want to have a match on Valorant or CS-GO 
@@ -13,7 +15,9 @@ I'm Pradip from India
 
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=pradipmudi)](https://github.com/ryo-ma/github-profile-trophy)
+
+*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pradipmudi)](https://github.com/anuraghazra/github-readme-stats)
 
