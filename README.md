@@ -1,4 +1,4 @@
-### Hi there, I'm Pradip 👋
+## Hi there, I'm Pradip 👋
 
 <a href="https://www.linkedin.com/in/pradip-mudi-5a418b8a/">
     <img align="left" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' width="21px" height='40'>
@@ -19,7 +19,8 @@ Hi, I'm Pradip Mudi from India. I love learning about new tools & technologies.
 
 
 
-## Languages and tools
+### Languages and Tools:
+
 ☕️ Java | <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> Javascript | 💻 Spring | Velocity | Hibernate | OSGi | PHP | Redis | Rabbitmq | HTML | CSS | etc
  
 
