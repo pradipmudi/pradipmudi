@@ -1,18 +1,28 @@
-# Pradip Mudi
+### Hi there, I'm Pradip 👋
+
+<a href="https://www.linkedin.com/in/pradip-mudi-5a418b8a/">
+    <img align="left" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' width="21px" height='40'>
+</a> 
+<a href="https://about.me/p.mudi">
+    <img align="left" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' width="21px" height='40'>
+</a>
+
+<br />
+<br />
 
 Hi, I'm Pradip Mudi from India. I love learning about new tools & technologies.
 
 
-- 🌱 I’m currently learning about large scale systems & Distributed Computing
-- ⚡ Fun fact: I also love MMA & gaming, ping me up if you want to have a match on Valorant or CS-GO 
+
+- 🌱 I’m currently learning about large scale distributed systems & Deno.js
 - 💬 Ask me about anything [here](https://github.com/pradipmudi/pradipmudi/issues)
+
+
 
 ## Languages and tools
 ☕️ Java | <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> Javascript | 💻 Spring | Velocity | Hibernate | OSGi | PHP | Redis | Rabbitmq | HTML | CSS | etc
  
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/pradipmudi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/pradip-mudi-5a418b8a/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/pradipmudi24)  
 
 
 
