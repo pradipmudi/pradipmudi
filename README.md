@@ -3,12 +3,12 @@
 Hi, I'm Pradip Mudi from India. I love learning about new tools & technologies.
 
 
-- 🌱 I’m currently learning about large scale systems, AI & Quantum Computing 
-- 📫 How to reach me: pradipmudi24@gmail.com 
+- 🌱 I’m currently learning about large scale systems & Distributed Computing
 - ⚡ Fun fact: I also love MMA & gaming, ping me up if you want to have a match on Valorant or CS-GO 
+- 💬 Ask me about anything [here](https://github.com/pradipmudi/pradipmudi/issues)
 
 ## Languages and tools
-☕️, <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>, 💻 Spring, Velocity, Hibernate, OSGi, PHP, HTML, CSS
+☕️ Java | <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> Javascript | 💻 Spring | Velocity | Hibernate | OSGi | PHP | Redis | Rabbitmq | HTML | CSS | etc
  
 
 
