@@ -14,7 +14,7 @@ Hi, I'm Pradip from India. I love learning new things.
 
 
 
-- 🌱 I’m currently learning about large scale distributed systems & Deno.js
+- 🌱 I’m currently learning about large scale distributed systems
 - 💬 Ask me about anything [here](https://github.com/pradipmudi/pradipmudi/issues)
 
 
