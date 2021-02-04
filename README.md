@@ -21,7 +21,7 @@ Hi, I'm Pradip from India. I love learning new things.
 
 ### Languages and Tools:
 
-☕️ Java | <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> Javascript | 💻 Spring | Velocity | Hibernate | OSGi | PHP | Redis | Rabbitmq | etc
+☕️ Java | <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> Javascript | 💻 Spring | Velocity | Hibernate | OSGi | etc
 
 
 
