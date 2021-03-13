@@ -10,7 +10,7 @@
 <br />
 <br />
 
-Hi, I'm Pradip from India. I love solving problems. To me programming,languages,frameworks are all just tools to solve a problem. I'm ready to learn any new things to get the job done.
+Hi, I'm Pradip from India. I love solving problems. Programming, languages, frameworks are all just tools to solve a problem. I'm ready to learn any new things to get the job done.
 
 
 - 🌱 I’m currently learning to design & build large scale distributed systems
