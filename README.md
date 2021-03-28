@@ -31,6 +31,8 @@ I love solving problems and I love learning new things.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=pradipmudi&show_icons=true&count_private=true&theme=algolia)                 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pradipmudi&layout=compact&theme=vision-friendly-dark&langs_count=8)](https://github.com/pradipmudi/github-readme-stats)
 
+[![Pradip's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pradipmudi)](https://github.com/pradipmudi/github-readme-stats&layout=compact)
+
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=pradipmudi)   
 
 ![Profile views](https://gpvc.arturio.dev/pradipmudi)  
