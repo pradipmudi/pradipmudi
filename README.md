@@ -43,6 +43,6 @@ I love solving problems and I love learning new things.
 </html>
 
 
-"Magic happens when creative minds collide with technology superstars!🚀"
+"Magic happens when creative minds collide with technology superstars!"🚀
 --
 
