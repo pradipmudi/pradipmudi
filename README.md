@@ -12,7 +12,7 @@
 
 Hi, I'm Pradip from India.
 
-I love solving problems and I love learning new things. 
+I love solving challenging problems and I love learning new things. 
 
 
 - 🌱 I’m currently learning to design & build large scale distributed systems
