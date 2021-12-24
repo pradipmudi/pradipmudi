@@ -41,6 +41,6 @@ I love building things & solving challenging problems.
 </html>
 
 
-"Magic happens when creative minds collide with technology superstars!"🚀
+"Magic happens when creative minds collide with technology superstars!!"🚀
 --
 
