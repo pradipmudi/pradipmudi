@@ -1,6 +1,6 @@
 ## Hi there, I'm Pradip 👋
 
-<a href="https://www.linkedin.com/in/pradip-mudi-5a418b8a/">
+<a href="https://www.linkedin.com/in/pradipmudi/">
     <img align="left" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' width="21px" height='40'>
 </a> 
 <a href="https://about.me/p.mudi">
