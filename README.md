@@ -22,7 +22,7 @@ I love building things & solving challenging problems.
 
 ### Current Languages and Tools(but not limited to):
 
-☕️ Java | <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> Javascript | 💻 Spring Boot | Velocity | OSGi | Message Queues | Redis etc
+☕️ Java | 💻 Spring Boot | Test Driven Development | Service Oriented Architecture | Data Structures & Algorithms | Message Queues | System Design etc
 
 
 
