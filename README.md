@@ -26,12 +26,12 @@ I love building things & solving challenging problems.
   ![](https://github-readme-streak-stats.herokuapp.com/?user=pradipmudi&theme=algolia&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pradipmudi&&layout=compact&theme=vision-friendly-dark&langs_count=6hide_border=false&include_all_commits=true&count_private=true)
 
-"Magic happens when creative minds collide with technology superstars!"🚀
----
-![Profile views](https://gpvc.arturio.dev/pradipmudi)  
 
-  ## 💰 You can help me by Donating
+## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/pradipmudi) 
 
+"Magic happens when creative minds collide with technology superstars!"🚀
+---
 
+![Profile views](https://gpvc.arturio.dev/pradipmudi)  
 
