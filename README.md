@@ -13,7 +13,8 @@ A postgraduate from NIT Warangal. Engineer by profession, techie by heart.
 I love building things & solving challenging problems.
 
 ## 💫 About Me:
-🔭 I’m currently working on improving my engineering skills<br>🌱 I’m currently learning to design & build Large Scale Distributed Systems<br>💬 Ask me about anything [here](https://github.com/pradipmudi/pradipmudi/issues)<br>⚡ Fun fact, I also love playing **Counter Strike : Global offensive**, ping me for team-up
+<!--🔭 I’m currently working on improving my engineering skills-->
+🌱 I’m currently learning to design & build Large Scale Distributed Systems<br>💬 Ask me about anything [here](https://github.com/pradipmudi/pradipmudi/issues)<br>⚡ Fun fact, I also love playing **Counter Strike : Global offensive**, ping me for team-up
 
 
 ## 🌐 Socials:
