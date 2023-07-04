@@ -17,14 +17,14 @@ I am a passionate Software Engineer focused on creating and executing innovative
 
 🌱 Currently, I am passionately exploring the domain of designing and building large-scale distributed systems, honing my skills to create resilient and scalable architectures.
 
-💬 Ask me about anything [here](https://github.com/pradipmudi/pradipmudi/issues)
-
 ⚡ I also love playing **Counter Strike : Global offensive**, ping me for team-up
 
 
 ## 🌐 Socials:
 💬 Feel free to reach out to me about anything. I am always open to engaging in stimulating discussions and collaborations. Let's connect on 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pradipmudi) 🤝
+
+💬 Or Ask me about anything [here](https://github.com/pradipmudi/pradipmudi/issues)
 
 ## 💻 Current Tech Stack:
 🔧 Java, Spring Boot, Service-Oriented-Architecture, Microservices, Test Driven Development, Message Brokers, Data Structures & Algorithms
