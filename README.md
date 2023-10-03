@@ -7,7 +7,7 @@
 </html>
 
 ## Hi there, I'm Pradip 👋
-I am a passionate Software Engineer focused on creating and executing innovative software solutions to drive business productivity and deliver exceptional user experiences.
+I'm a passionate Software Engineer with a rich five-year journey, devoted to crafting and implementing innovative software solutions that drive business efficiency and deliver exceptional user experiences.
 
 
 ## 💫 About Me:
