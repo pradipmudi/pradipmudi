@@ -1,0 +1,8 @@
+lb:
+  algorithms:
+    - algorithm: ROUND_ROBIN
+      enabled: true
+    - algorithm: WEIGHTED_ROUND_ROBIN
+      enabled: false
+    - algorithm: LEAST_CONNECTIONS
+      enabled: false
