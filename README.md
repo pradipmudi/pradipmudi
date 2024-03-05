@@ -7,36 +7,34 @@
 </html>
 
 ## Hi there, I'm Pradip 👋
-I'm a passionate Software Engineer with a rich five-year journey, devoted to crafting and implementing innovative software solutions that drive business efficiency and deliver exceptional user experiences.
-
+I'm a seasoned Software Engineer with 5+ years of experience dedicated to crafting cutting-edge solutions that drive business efficiency and elevate user experiences.
 
 ## 💫 About Me:
-🚀 Building things & solving challenging problems are my driving forces. Whether it's crafting efficient algorithms or architecting robust systems, I thrive on tackling complex technical challenges.
+🚀 I excel in problem-solving and thrive in architecting robust systems. From designing efficient algorithms to building scalable architectures, I'm passionate about tackling technical challenges head-on.
 
-📚 As an avid learner, I find immense joy in reading research papers and staying updated with the latest technological advancements.
+📚 As an avid learner, I stay at the forefront of technology trends through continuous exploration of research papers, tutorials, and hands-on experimentation.
 
-👨‍💻 During my leisure time, I immerse myself in hands-on implementation of the latest concepts I've encountered through avid reading. Additionally, I channel my passion for sharing knowledge by regularly crafting engaging blog posts. 
-Feel free to explore my blogs here: https://substack.com/@pradipmudi 
+👨‍💻 In my spare time, I translate newfound knowledge into actionable insights through engaging blog posts. Explore my work on Substack and GitHub:
 
-🌱 Currently, I am passionately exploring the domain of designing and building large-scale distributed systems, honing my skills to create resilient and scalable architectures.
-
+ Substack: https://substack.com/@pradipmudi
+ 
 ⚡ I also love playing **Counter Strike : Global offensive**, ping me for team-up
 
 
 ## 🌐 Socials:
-💬 Feel free to reach out to me about anything. I am always open to engaging in stimulating discussions and collaborations. Let's connect on 
+💬 Feel free to reach out to me about anything. Let's connect for stimulating discussions and potential collaborations on
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pradipmudi) 🤝
 
 💬 Or Ask me about anything [here](https://github.com/pradipmudi/pradipmudi/issues)
 
 ## 💻 Current Tech Stack:
-🔧 Java, Spring Boot, Service-Oriented-Architecture, Microservices, Test Driven Development, Message Brokers, Data Structures & Algorithms
+🔧 Java, Spring Boot, SOA, Microservices, TDD
 
-🗃️ Database: MySQL, MongoDB, Redis
+🗃️ **Databases:** MySQL, MongoDB, Redis
 
-🌐 Tools: Wiremock, Kubernetes, CI/CD with Jenkins, OpenAPI, Swagger, GCP
+🌐 **Tools:** Wiremock, Kubernetes, Jenkins CI/CD, OpenAPI/Swagger, GCP
 
-📚 Expertise: Problem-Solving
+📚 **Expertise:** Problem-Solving
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=pradipmudi&theme=algolia&hide_border=false&include_all_commits=true&count_private=true)
