@@ -15,6 +15,9 @@ I'm a passionate Software Engineer with a rich five-year journey, devoted to cra
 
 📚 As an avid learner, I find immense joy in reading research papers and staying updated with the latest technological advancements.
 
+👨‍💻 During my leisure time, I immerse myself in hands-on implementation of the latest concepts I've encountered through avid reading. Additionally, I channel my passion for sharing knowledge by regularly crafting engaging blog posts. 
+Feel free to explore my blogs here: https://substack.com/@pradipmudi 
+
 🌱 Currently, I am passionately exploring the domain of designing and building large-scale distributed systems, honing my skills to create resilient and scalable architectures.
 
 ⚡ I also love playing **Counter Strike : Global offensive**, ping me for team-up
