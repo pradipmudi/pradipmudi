@@ -17,6 +17,7 @@ I'm a seasoned Software Engineer with 5+ years of experience dedicated to crafti
 👨‍💻 In my spare time, I translate newfound knowledge into actionable insights through engaging blog posts. Explore my work on Substack and GitHub:
 
  Substack: https://substack.com/@pradipmudi
+ Medium: https://medium.com/@pradipmudi24
  
 ⚡ I also love playing **Counter Strike : Global offensive**, ping me for team-up
 
