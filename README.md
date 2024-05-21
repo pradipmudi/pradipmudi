@@ -40,7 +40,7 @@ I'm a seasoned Software Engineer with 5+ years of experience dedicated to crafti
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=pradipmudi&theme=algolia&hide_border=false&include_all_commits=true&count_private=true)
   ![](https://github-readme-streak-stats.herokuapp.com/?user=pradipmudi&theme=algolia&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pradipmudi&&layout=compact&theme=vision-friendly-dark&langs_count=6hide_border=false&include_all_commits=true&count_private=true)
+![](![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pradipmudi&hide_progress=false))
 
 
 ## 💰 You can help me by Donating
